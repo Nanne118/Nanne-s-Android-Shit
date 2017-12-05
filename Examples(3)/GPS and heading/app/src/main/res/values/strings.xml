@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rhino</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="orientation">Current orientation not available...</string>
+    <string name="gps">No GPS fix...</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">Please enter your estimated distance...</string>
+    <string name="sendInput">Send</string>
+</resources>

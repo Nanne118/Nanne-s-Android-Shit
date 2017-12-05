@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bye</string>
+
+    <string name="textview">Hi!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">LBablablalb</string>
+    <string name="hint">A Name</string>
+</resources>
